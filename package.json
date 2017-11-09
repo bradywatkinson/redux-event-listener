@@ -1,0 +1,23 @@
+{
+  "name": "redux-event-listener",
+  "version": "0.0.1",
+  "description": "An event listener which dispatches actions on listening to events Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradywatkinson/redux-event-listener.git"
+  },
+  "keywords": [
+    "redux",
+    "eventListener"
+  ],
+  "author": "Brady Watkinson <brady.a.watkinson@gmail.com> (http://www.bradywatkinson.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradywatkinson/redux-event-listener/issues"
+  },
+  "homepage": "https://github.com/bradywatkinson/redux-event-listener#readme"
+}
